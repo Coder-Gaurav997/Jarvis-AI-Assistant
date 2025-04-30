@@ -1,0 +1,6 @@
+json
+dotenv
+speech recognition
+datetime
+pyttsx3
+groq
